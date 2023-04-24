@@ -1,0 +1,678 @@
+
+10 PoS più frequenti in ordine di frequenza decrescente
+
+CORPUS History_of_Europe 
+
+NN 	 2028
+IN 	 1905
+DT 	 1387
+JJ 	 1112
+NNS 	 1006
+VBD 	 737
+NNP 	 702
+CC 	 566
+RB 	 410
+VBN 	 312
+
+CORPUS Introduction_to_Art 
+
+NN 	 2030
+IN 	 1858
+DT 	 1474
+JJ 	 1341
+NNS 	 962
+NNP 	 892
+VBD 	 719
+CC 	 579
+RB 	 457
+VBN 	 270
+
+10 bigrammi di PoS più frequenti in ordine di frequenza decrescente
+
+CORPUS History_of_Europe 
+
+('NN', 'IN') 	 721
+('IN', 'DT') 	 651
+('DT', 'NN') 	 639
+('JJ', 'NN') 	 474
+('DT', 'JJ') 	 378
+('IN', 'NN') 	 317
+('JJ', 'NNS') 	 280
+('NNS', 'IN') 	 270
+('IN', 'NNP') 	 220
+('IN', 'JJ') 	 185
+
+CORPUS Introduction_to_Art 
+
+('NN', 'IN') 	 735
+('IN', 'DT') 	 665
+('JJ', 'NN') 	 620
+('DT', 'NN') 	 580
+('DT', 'JJ') 	 465
+('JJ', 'NNS') 	 337
+('NNS', 'IN') 	 296
+('IN', 'JJ') 	 287
+('IN', 'NN') 	 230
+('IN', 'NNP') 	 222
+
+10 trigrammi di PoS più frequenti in ordine di frequenza decrescente
+
+CORPUS History_of_Europe 
+
+('DT', 'NN', 'IN') 	 325
+('IN', 'DT', 'NN') 	 293
+('DT', 'JJ', 'NN') 	 257
+('NN', 'IN', 'DT') 	 256
+('IN', 'DT', 'JJ') 	 183
+('JJ', 'NN', 'IN') 	 155
+('NN', 'IN', 'NN') 	 146
+('NNS', 'IN', 'DT') 	 84
+('IN', 'JJ', 'NNS') 	 83
+('NN', 'IN', 'NNP') 	 74
+
+CORPUS Introduction_to_Art 
+
+('DT', 'NN', 'IN') 	 327
+('DT', 'JJ', 'NN') 	 275
+('NN', 'IN', 'DT') 	 255
+('IN', 'DT', 'NN') 	 245
+('IN', 'DT', 'JJ') 	 229
+('JJ', 'NN', 'IN') 	 201
+('NN', 'IN', 'JJ') 	 153
+('IN', 'JJ', 'NN') 	 122
+('NN', 'IN', 'NN') 	 115
+('JJ', 'NNS', 'IN') 	 98
+
+20 avverbi più frequenti in ordine di frequenza decrescente:
+
+CORPUS History_of_Europe 
+
+Avverbo * not * ha frequenza di 50
+Avverbo * only * ha frequenza di 19
+Avverbo * more * ha frequenza di 19
+Avverbo * even * ha frequenza di 17
+Avverbo * also * ha frequenza di 15
+Avverbo * so * ha frequenza di 11
+Avverbo * however * ha frequenza di 11
+Avverbo * still * ha frequenza di 8
+Avverbo * then * ha frequenza di 8
+Avverbo * as * ha frequenza di 7
+Avverbo * particularly * ha frequenza di 7
+Avverbo * relatively * ha frequenza di 7
+Avverbo * especially * ha frequenza di 7
+Avverbo * notably * ha frequenza di 7
+Avverbo * largely * ha frequenza di 6
+Avverbo * Even * ha frequenza di 5
+Avverbo * Meanwhile * ha frequenza di 5
+Avverbo * most * ha frequenza di 5
+Avverbo * less * ha frequenza di 5
+Avverbo * often * ha frequenza di 5
+
+CORPUS Introduction_to_Art 
+
+Avverbo * also * ha frequenza di 34
+Avverbo * not * ha frequenza di 32
+Avverbo * more * ha frequenza di 19
+Avverbo * even * ha frequenza di 17
+Avverbo * especially * ha frequenza di 15
+Avverbo * most * ha frequenza di 14
+Avverbo * only * ha frequenza di 14
+Avverbo * however * ha frequenza di 13
+Avverbo * as * ha frequenza di 12
+Avverbo * well * ha frequenza di 12
+Avverbo * so * ha frequenza di 9
+Avverbo * already * ha frequenza di 8
+Avverbo * almost * ha frequenza di 8
+Avverbo * now * ha frequenza di 8
+Avverbo * rather * ha frequenza di 7
+Avverbo * thus * ha frequenza di 7
+Avverbo * Even * ha frequenza di 6
+Avverbo * again * ha frequenza di 6
+Avverbo * too * ha frequenza di 6
+Avverbo * then * ha frequenza di 5
+
+20 aggettivi più frequenti in ordine di frequenza decrescente:
+
+CORPUS History_of_Europe 
+
+Aggettivo * such * ha frequenza di 30
+Aggettivo * poor * ha frequenza di 21
+Aggettivo * more * ha frequenza di 20
+Aggettivo * political * ha frequenza di 19
+Aggettivo * French * ha frequenza di 16
+Aggettivo * social * ha frequenza di 14
+Aggettivo * most * ha frequenza di 13
+Aggettivo * new * ha frequenza di 12
+Aggettivo * economic * ha frequenza di 11
+Aggettivo * other * ha frequenza di 11
+Aggettivo * noble * ha frequenza di 11
+Aggettivo * great * ha frequenza di 10
+Aggettivo * common * ha frequenza di 10
+Aggettivo * least * ha frequenza di 10
+Aggettivo * 18th * ha frequenza di 10
+Aggettivo * special * ha frequenza di 10
+Aggettivo * local * ha frequenza di 9
+Aggettivo * 17th * ha frequenza di 8
+Aggettivo * little * ha frequenza di 8
+Aggettivo * larger * ha frequenza di 8
+
+CORPUS Introduction_to_Art 
+
+Aggettivo * new * ha frequenza di 38
+Aggettivo * Italian * ha frequenza di 30
+Aggettivo * great * ha frequenza di 26
+Aggettivo * 16th * ha frequenza di 21
+Aggettivo * s * ha frequenza di 19
+Aggettivo * 15th * ha frequenza di 18
+Aggettivo * late * ha frequenza di 17
+Aggettivo * political * ha frequenza di 17
+Aggettivo * many * ha frequenza di 16
+Aggettivo * other * ha frequenza di 16
+Aggettivo * European * ha frequenza di 16
+Aggettivo * religious * ha frequenza di 15
+Aggettivo * Christian * ha frequenza di 14
+Aggettivo * Spanish * ha frequenza di 12
+Aggettivo * French * ha frequenza di 12
+Aggettivo * medieval * ha frequenza di 11
+Aggettivo * free * ha frequenza di 11
+Aggettivo * human * ha frequenza di 11
+Aggettivo * more * ha frequenza di 11
+Aggettivo * economic * ha frequenza di 11
+
+
+20 bigrammi aggettivo-sostantivo (dove ogni token ha una frequenza > 3)
+
+- Con Frequenza Massima
+
+
+CORPUS History_of_Europe 
+
+('18th', 'century') 	Freq bigramma 10
+	Aggettivo: 18th 	Freq assoluta: 11
+	Nome: century 	Freq assoluta: 31 
+
+('17th', 'century') 	Freq bigramma 8
+	Aggettivo: 17th 	Freq assoluta: 10
+	Nome: century 	Freq assoluta: 31 
+
+('16th', 'century') 	Freq bigramma 5
+	Aggettivo: 16th 	Freq assoluta: 5
+	Nome: century 	Freq assoluta: 31 
+
+('French', 'Revolution') 	Freq bigramma 3
+	Aggettivo: French 	Freq assoluta: 17
+	Nome: Revolution 	Freq assoluta: 5 
+
+('eastern', 'Europe') 	Freq bigramma 3
+	Aggettivo: eastern 	Freq assoluta: 6
+	Nome: Europe 	Freq assoluta: 33 
+
+('political', 'rise') 	Freq bigramma 2
+	Aggettivo: political 	Freq assoluta: 19
+	Nome: rise 	Freq assoluta: 13 
+
+('larger', 'armies') 	Freq bigramma 2
+	Aggettivo: larger 	Freq assoluta: 8
+	Nome: armies 	Freq assoluta: 9 
+
+('most', 'land') 	Freq bigramma 2
+	Aggettivo: most 	Freq assoluta: 18
+	Nome: land 	Freq assoluta: 17 
+
+('main', 'war') 	Freq bigramma 2
+	Aggettivo: main 	Freq assoluta: 6
+	Nome: war 	Freq assoluta: 18 
+
+('least', 'Enlightenment') 	Freq bigramma 2
+	Aggettivo: least 	Freq assoluta: 10
+	Nome: Enlightenment 	Freq assoluta: 5 
+
+('southern', 'Italy') 	Freq bigramma 2
+	Aggettivo: southern 	Freq assoluta: 5
+	Nome: Italy 	Freq assoluta: 8 
+
+('western', 'Europe') 	Freq bigramma 2
+	Aggettivo: western 	Freq assoluta: 5
+	Nome: Europe 	Freq assoluta: 33 
+
+('more', 'work') 	Freq bigramma 2
+	Aggettivo: more 	Freq assoluta: 39
+	Nome: work 	Freq assoluta: 14 
+
+('s', 'life') 	Freq bigramma 2
+	Aggettivo: s 	Freq assoluta: 52
+	Nome: life 	Freq assoluta: 19 
+
+('feudal', 'society') 	Freq bigramma 2
+	Aggettivo: feudal 	Freq assoluta: 7
+	Nome: society 	Freq assoluta: 17 
+
+('natural', 'rights') 	Freq bigramma 2
+	Aggettivo: natural 	Freq assoluta: 4
+	Nome: rights 	Freq assoluta: 17 
+
+('aristocratic', 'spirit') 	Freq bigramma 2
+	Aggettivo: aristocratic 	Freq assoluta: 7
+	Nome: spirit 	Freq assoluta: 6 
+
+('special', 'privileges') 	Freq bigramma 2
+	Aggettivo: special 	Freq assoluta: 10
+	Nome: privileges 	Freq assoluta: 8 
+
+('most', 'nobles') 	Freq bigramma 2
+	Aggettivo: most 	Freq assoluta: 18
+	Nome: nobles 	Freq assoluta: 14 
+
+('political', 'role') 	Freq bigramma 2
+	Aggettivo: political 	Freq assoluta: 19
+	Nome: role 	Freq assoluta: 6 
+
+
+CORPUS Introduction_to_Art 
+
+('16th', 'century') 	Freq bigramma 21
+	Aggettivo: 16th 	Freq assoluta: 22
+	Nome: century 	Freq assoluta: 65 
+
+('15th', 'century') 	Freq bigramma 17
+	Aggettivo: 15th 	Freq assoluta: 18
+	Nome: century 	Freq assoluta: 65 
+
+('late', 'Middle') 	Freq bigramma 6
+	Aggettivo: late 	Freq assoluta: 17
+	Nome: Middle 	Freq assoluta: 14 
+
+('Low', 'Countries') 	Freq bigramma 4
+	Aggettivo: Low 	Freq assoluta: 5
+	Nome: Countries 	Freq assoluta: 4 
+
+('European', 'regions') 	Freq bigramma 4
+	Aggettivo: European 	Freq assoluta: 16
+	Nome: regions 	Freq assoluta: 7 
+
+('late', 'medieval') 	Freq bigramma 4
+	Aggettivo: late 	Freq assoluta: 17
+	Nome: medieval 	Freq assoluta: 22 
+
+('literary', 'Latin') 	Freq bigramma 3
+	Aggettivo: literary 	Freq assoluta: 8
+	Nome: Latin 	Freq assoluta: 11 
+
+('late', 'century') 	Freq bigramma 3
+	Aggettivo: late 	Freq assoluta: 17
+	Nome: century 	Freq assoluta: 65 
+
+('public', 'life') 	Freq bigramma 3
+	Aggettivo: public 	Freq assoluta: 8
+	Nome: life 	Freq assoluta: 17 
+
+('s', 'authority') 	Freq bigramma 3
+	Aggettivo: s 	Freq assoluta: 48
+	Nome: authority 	Freq assoluta: 6 
+
+('Italian', 'states') 	Freq bigramma 3
+	Aggettivo: Italian 	Freq assoluta: 33
+	Nome: states 	Freq assoluta: 7 
+
+('French', 'Italy') 	Freq bigramma 3
+	Aggettivo: French 	Freq assoluta: 15
+	Nome: Italy 	Freq assoluta: 22 
+
+('new', 'ways') 	Freq bigramma 3
+	Aggettivo: new 	Freq assoluta: 38
+	Nome: ways 	Freq assoluta: 10 
+
+('same', 'time') 	Freq bigramma 3
+	Aggettivo: same 	Freq assoluta: 7
+	Nome: time 	Freq assoluta: 10 
+
+('second', 'half') 	Freq bigramma 3
+	Aggettivo: second 	Freq assoluta: 9
+	Nome: half 	Freq assoluta: 7 
+
+('modern', 'Europe') 	Freq bigramma 3
+	Aggettivo: modern 	Freq assoluta: 9
+	Nome: Europe 	Freq assoluta: 39 
+
+('Christian', 'humanism') 	Freq bigramma 3
+	Aggettivo: Christian 	Freq assoluta: 19
+	Nome: humanism 	Freq assoluta: 11 
+
+('eastern', 'Europe') 	Freq bigramma 3
+	Aggettivo: eastern 	Freq assoluta: 10
+	Nome: Europe 	Freq assoluta: 39 
+
+('large', 'cities') 	Freq bigramma 3
+	Aggettivo: large 	Freq assoluta: 7
+	Nome: cities 	Freq assoluta: 21 
+
+('Italian', 'humanists') 	Freq bigramma 2
+	Aggettivo: Italian 	Freq assoluta: 33
+	Nome: humanists 	Freq assoluta: 19 
+
+
+- Con Probabilità Congiunta
+
+
+CORPUS History_of_Europe 
+
+('18th', 'century') 
+	Probabilità: 0.0007307270734380709 
+
+('17th', 'century') 
+	Probabilità: 0.0005845816587504567 
+
+('16th', 'century') 
+	Probabilità: 0.00036536353671903543 
+
+('French', 'Revolution') 
+	Probabilità: 0.0002192181220314213 
+
+('eastern', 'Europe') 
+	Probabilità: 0.00021921812203142126 
+
+('political', 'rise') 
+	Probabilità: 0.00014614541468761417 
+
+('larger', 'armies') 
+	Probabilità: 0.00014614541468761417 
+
+('most', 'land') 
+	Probabilità: 0.00014614541468761417 
+
+('main', 'war') 
+	Probabilità: 0.00014614541468761417 
+
+('least', 'Enlightenment') 
+	Probabilità: 0.00014614541468761417 
+
+('southern', 'Italy') 
+	Probabilità: 0.00014614541468761417 
+
+('western', 'Europe') 
+	Probabilità: 0.00014614541468761417 
+
+('more', 'work') 
+	Probabilità: 0.00014614541468761417 
+
+('s', 'life') 
+	Probabilità: 0.0001461454146876142 
+
+('feudal', 'society') 
+	Probabilità: 0.00014614541468761417 
+
+('natural', 'rights') 
+	Probabilità: 0.00014614541468761417 
+
+('aristocratic', 'spirit') 
+	Probabilità: 0.00014614541468761417 
+
+('special', 'privileges') 
+	Probabilità: 0.00014614541468761417 
+
+('most', 'nobles') 
+	Probabilità: 0.00014614541468761417 
+
+('political', 'role') 
+	Probabilità: 0.00014614541468761417 
+
+
+CORPUS Introduction_to_Art 
+
+('16th', 'century') 
+	Probabilità: 0.001506672406371072 
+
+('15th', 'century') 
+	Probabilità: 0.0012196871861099154 
+
+('late', 'Middle') 
+	Probabilità: 0.0004304778303917349 
+
+('Low', 'Countries') 
+	Probabilità: 0.00028698522026115655 
+
+('European', 'regions') 
+	Probabilità: 0.00028698522026115655 
+
+('late', 'medieval') 
+	Probabilità: 0.00028698522026115655 
+
+('literary', 'Latin') 
+	Probabilità: 0.00021523891519586742 
+
+('late', 'century') 
+	Probabilità: 0.00021523891519586744 
+
+('public', 'life') 
+	Probabilità: 0.00021523891519586742 
+
+('s', 'authority') 
+	Probabilità: 0.00021523891519586742 
+
+('Italian', 'states') 
+	Probabilità: 0.00021523891519586742 
+
+('French', 'Italy') 
+	Probabilità: 0.00021523891519586742 
+
+('new', 'ways') 
+	Probabilità: 0.00021523891519586742 
+
+('same', 'time') 
+	Probabilità: 0.00021523891519586742 
+
+('second', 'half') 
+	Probabilità: 0.00021523891519586742 
+
+('modern', 'Europe') 
+	Probabilità: 0.00021523891519586742 
+
+('Christian', 'humanism') 
+	Probabilità: 0.00021523891519586742 
+
+('eastern', 'Europe') 
+	Probabilità: 0.00021523891519586742 
+
+('large', 'cities') 
+	Probabilità: 0.00021523891519586742 
+
+('Italian', 'humanists') 
+	Probabilità: 0.00014349261013057828 
+
+
+- Con Forza Associativa Massima (attraverso la Local Mutual Information)
+
+
+CORPUS History_of_Europe 
+
+('18th', 'century') 
+	Local Mutual Information: 86.48607980115509 
+
+('17th', 'century') 
+	Local Mutual Information: 67.71346727182465 
+
+('16th', 'century') 
+	Local Mutual Information: 43.930557519327216 
+
+('French', 'Revolution') 
+	Local Mutual Information: 26.747638136507316 
+
+('eastern', 'Europe') 
+	Local Mutual Information: 23.087741084681596 
+
+('southern', 'Italy') 
+	Local Mutual Information: 18.836759438729914 
+
+('aristocratic', 'spirit') 
+	Local Mutual Information: 18.695980782947117 
+
+('least', 'Enlightenment') 
+	Local Mutual Information: 18.19290324895519 
+
+('natural', 'rights') 
+	Local Mutual Information: 17.30568994600396 
+
+('larger', 'armies') 
+	Local Mutual Information: 17.140765625620016 
+
+('special', 'privileges') 
+	Local Mutual Information: 16.836759438729914 
+
+('main', 'war') 
+	Local Mutual Information: 15.970840624177702 
+
+('political', 'role') 
+	Local Mutual Information: 15.814835600175154 
+
+('feudal', 'society') 
+	Local Mutual Information: 15.690980101888751 
+
+('western', 'Europe') 
+	Local Mutual Information: 14.747971200013007 
+
+('political', 'rise') 
+	Local Mutual Information: 13.583881165335283 
+
+('most', 'nobles') 
+	Local Mutual Information: 13.526055781504805 
+
+('most', 'land') 
+	Local Mutual Information: 12.965839943119333 
+
+('more', 'work') 
+	Local Mutual Information: 11.295101346664932 
+
+('s', 'life') 
+	Local Mutual Information: 9.583881165335283 
+
+
+CORPUS Introduction_to_Art 
+
+('16th', 'century') 
+	Local Mutual Information: 161.22233254350243 
+
+('15th', 'century') 
+	Local Mutual Information: 130.25240142726213 
+
+('late', 'Middle') 
+	Local Mutual Information: 50.74128406165906 
+
+('Low', 'Countries') 
+	Local Mutual Information: 45.77923137857041 
+
+('European', 'regions') 
+	Local Mutual Information: 35.83752406988944 
+
+('late', 'medieval') 
+	Local Mutual Information: 28.879365918569306 
+
+('second', 'half') 
+	Local Mutual Information: 28.12325555025361 
+
+('same', 'time') 
+	Local Mutual Information: 27.667246269918458 
+
+('literary', 'Latin') 
+	Local Mutual Information: 26.676800464841463 
+
+('public', 'life') 
+	Local Mutual Information: 24.792706797002342 
+
+('large', 'cities') 
+	Local Mutual Information: 24.45607828624427 
+
+('Christian', 'humanism') 
+	Local Mutual Information: 22.93301792451071 
+
+('Italian', 'states') 
+	Local Mutual Information: 22.499848196505187 
+
+('s', 'authority') 
+	Local Mutual Information: 21.545320316426423 
+
+('French', 'Italy') 
+	Local Mutual Information: 20.956128678015915 
+
+('modern', 'Europe') 
+	Local Mutual Information: 20.689113659839677 
+
+('new', 'ways') 
+	Local Mutual Information: 20.345528495760515 
+
+('eastern', 'Europe') 
+	Local Mutual Information: 20.23310437950453 
+
+('late', 'century') 
+	Local Mutual Information: 15.72560335791698 
+
+('Italian', 'humanists') 
+	Local Mutual Information: 10.94882861345585 
+
+-----15 NOMI PROPRI DI PERSONA PIU' FREQUENTI-----
+
+CORPUS History_of_Europe 
+
+	Il nome proprio di persona b' Louis' occorre 9 volte
+	Il nome proprio di persona b' Europe' occorre 7 volte
+	Il nome proprio di persona b' Louis XIV' occorre 7 volte
+	Il nome proprio di persona b' Richelieu' occorre 5 volte
+	Il nome proprio di persona b' Joseph' occorre 5 volte
+	Il nome proprio di persona b' Frederick' occorre 5 volte
+	Il nome proprio di persona b' Sweden' occorre 4 volte
+	Il nome proprio di persona b' Charles' occorre 4 volte
+	Il nome proprio di persona b' Joseph II' occorre 4 volte
+	Il nome proprio di persona b' William' occorre 3 volte
+	Il nome proprio di persona b' Bismarck' occorre 2 volte
+	Il nome proprio di persona b' Christendom' occorre 2 volte
+	Il nome proprio di persona b' Henry' occorre 2 volte
+	Il nome proprio di persona b' Peter' occorre 2 volte
+	Il nome proprio di persona b' Philip' occorre 2 volte
+
+
+CORPUS Introduction_to_Art 
+
+	Il nome proprio di persona b' Charles' occorre 12 volte
+	Il nome proprio di persona b' Europe' occorre 7 volte
+	Il nome proprio di persona b' Petrarch' occorre 6 volte
+	Il nome proprio di persona b' Antwerp' occorre 6 volte
+	Il nome proprio di persona b' Naples' occorre 5 volte
+	Il nome proprio di persona b' Latin' occorre 4 volte
+	Il nome proprio di persona b' Ferrara' occorre 4 volte
+	Il nome proprio di persona b' Machiavelli' occorre 4 volte
+	Il nome proprio di persona b' Guicciardini' occorre 4 volte
+	Il nome proprio di persona b' Luther' occorre 4 volte
+	Il nome proprio di persona b' Ludovico' occorre 3 volte
+	Il nome proprio di persona b' Ludovico Ariosto' occorre 3 volte
+	Il nome proprio di persona b' Lorenzo' occorre 3 volte
+	Il nome proprio di persona b' Aristotle' occorre 3 volte
+	Il nome proprio di persona b' Milan' occorre 3 volte
+
+-----ENTITA NOMINATE-----
+
+CORPUS History_of_Europe 
+
+GPE 383
+PERSON 155
+ORGANIZATION 89
+GSP 4
+LOCATION 3
+
+
+CORPUS Introduction_to_Art 
+
+PERSON 202
+GPE 494
+ORGANIZATION 147
+LOCATION 7
+GSP 4
+
+-----Frasi min 6 token e max 25 token con min 2 frequenza-----
+
+CORPUS History_of_Europe 
+
+Numeri di Token nella Frase: 13    frase: [['The', 'process', 'can', 'be', 'seen', 'in', 'the', 'wars', 'of', 'France', 'and', 'Sweden', '.']]
+Numeri di Token nella Frase: 14    frase: [['A', 'feature', 'of', 'the', 'late', '16th', 'century', 'had', 'been', 'the', 'growth', 'of', 'cities', '.']]
+
+CORPUS Introduction_to_Art 
+
+Numeri di Token nella Frase: 10    frase: [['The', 'Renaissance', 'made', 'its', 'greatest', 'rise', 'of', 'modern', 'science', '.']]

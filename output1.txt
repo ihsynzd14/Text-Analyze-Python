@@ -1,0 +1,139 @@
+Iskandar Huseynzade ( 618017 )
+________________________________
+
+Il confronto tra due corpus  History_of_Europe .txt , Introduction_to_Art .txt
+
+- CONFRONTI BASILARI -
+
+ History_of_Europe 			 Introduction_to_Art 
+
+Frasi file1 --> 482 		Frasi file2 --> 472
+Token file1 --> 13685 		Token file2 13928 
+
+Media frasi file1 --> 28.392116182572614 	Media frasi file2 --> 29.508474576271187
+Media token file1 --> 4.573913043478261 	Media token file2 --> 4.707495692130959 
+
+*** Il numero totale delle frasi scritte in History_of_Europe è maggiore di quelle scritte in Introduction_to_Art
+*** In corpus Introduction_to_Art è stata usata piu numero di token rispetto al  History_of_Europe
+*** Il corpus di Introduction_to_Art ha una lunghezza media delle frasi, in termini di token, più rispetto al corpus di History_of_Europe
+*** Il corpus di Introduction_to_Art ha unalunghezza media delle token, in termini di token, più rispetto al corpus di History_of_Europe 
+
+NUMERO DI HAPAX sui primi 1000 token
+Il corpus diHistory_of_Europe
+*** il numero di hapax sui primi 1000 token sono: 387 hapax
+Il corpus diIntroduction_to_Art
+*** il numero di hapax sui primi 1000 token sono: 300 hapax
+
+
+La Grandezza del Vocabolario +500
+History_of_Europe 	 Introduction_to_Art
+- 272        - 254       
+- 482        - 428       
+- 690        - 603       
+- 875        - 603       
+- 1034       - 753       
+- 1200       - 873       
+- 1355       - 1016      
+- 1492       - 1167      
+- 1636       - 1315      
+- 1812       - 1463      
+- 1958       - 1605      
+- 2119       - 1723      
+- 2250       - 1855      
+- 2402       - 1985      
+- 2542       - 2101      
+- 2659       - 2242      
+- 2774       - 2365      
+- 2877       - 2477      
+- 2969       - 2598      
+- 3061       - 2705      
+- 3161       - 2794      
+- 3255       - 2892      
+- 3345       - 2985      
+- 3429       - 3075      
+- 3512       - 3149      
+- 3605       - 3225      
+- 3692       - 3308      
+- 3714       - 3389      
+
+ Il Type Token Ratio per file History_of_Europe con incremento +500 sono :
+IL TTR : 0.544
+IL TTR : 0.482
+IL TTR : 0.46
+IL TTR : 0.4375
+IL TTR : 0.4136
+IL TTR : 0.4
+IL TTR : 0.3871428571428571
+IL TTR : 0.373
+IL TTR : 0.3635555555555556
+IL TTR : 0.3624
+IL TTR : 0.356
+IL TTR : 0.3531666666666667
+IL TTR : 0.34615384615384615
+IL TTR : 0.34314285714285714
+IL TTR : 0.3389333333333333
+IL TTR : 0.332375
+IL TTR : 0.32635294117647057
+IL TTR : 0.31966666666666665
+IL TTR : 0.3125263157894737
+IL TTR : 0.3061
+IL TTR : 0.30104761904761906
+IL TTR : 0.2959090909090909
+IL TTR : 0.2908695652173913
+IL TTR : 0.28575
+IL TTR : 0.28096
+IL TTR : 0.2773076923076923
+IL TTR : 0.2734814814814815
+IL TTR : 0.2713920350748995
+
+ Il Type Token Ratio per file History_of_Europe con incremento +500 sono :
+IL TTR : 0.508
+IL TTR : 0.428
+IL TTR : 0.402
+IL TTR : 0.3015
+IL TTR : 0.3012
+IL TTR : 0.291
+IL TTR : 0.29028571428571426
+IL TTR : 0.29175
+IL TTR : 0.2922222222222222
+IL TTR : 0.2926
+IL TTR : 0.2918181818181818
+IL TTR : 0.2871666666666667
+IL TTR : 0.2853846153846154
+IL TTR : 0.2835714285714286
+IL TTR : 0.28013333333333335
+IL TTR : 0.28025
+IL TTR : 0.2782352941176471
+IL TTR : 0.2752222222222222
+IL TTR : 0.2734736842105263
+IL TTR : 0.2705
+IL TTR : 0.2660952380952381
+IL TTR : 0.2629090909090909
+IL TTR : 0.25956521739130434
+IL TTR : 0.25625
+IL TTR : 0.25192
+IL TTR : 0.24807692307692308
+IL TTR : 0.24503703703703703
+IL TTR : 0.2433228029867892
+
+ Il corpus di History_of_Europe ha sequenti percentuali
+
+Percentuale di Aggettivi sono : 12.42 %
+Percentuale di Sostantivi sono : 38.58 %
+Percentuale di Verbi sono : 16.19 %
+Percentuale di Avverbi sono : 4.34 %
+Percentuale di Articoli sono : 13.84 %
+Percentuale di Preposizioni sono : 21.98 %
+Percentuale di Congiunzioni sono : 5.68 %
+Percentuale di Pronomi sono : 2.4 %
+
+ Il corpus di Introduction_to_Art ha sequenti percentuali
+
+Percentuale di Aggettivi sono : 14.39 %
+Percentuale di Sostantivi sono : 40.23 %
+Percentuale di Verbi sono : 15.26 %
+Percentuale di Avverbi sono : 4.87 %
+Percentuale di Articoli sono : 14.71 %
+Percentuale di Preposizioni sono : 21.07 %
+Percentuale di Congiunzioni sono : 5.81 %
+Percentuale di Pronomi sono : 3.81 %
